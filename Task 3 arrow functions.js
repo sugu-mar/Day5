@@ -5,7 +5,7 @@ console.log(`programs in arrow function`);
 
 
 //(a) Print odd numbers in an array
-console.log("\n ");console.log(`Print odd numbers in an array:`);
+console.log("\n ");console.log(`(a) Print odd numbers in an array:`);
 
 
 
